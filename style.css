@@ -1,0 +1,33 @@
+.navBar{
+   
+    display: flex;
+    justify-content: space-between;
+    height: 35px;
+    margin-left: 70%;
+    background-color: black;
+}
+
+.Logo{
+   
+     ;
+    margin-left: 50%;
+}
+.image{
+    height: 350px;
+}
+
+.description{
+    font-weight: bold;
+    margin-left: 60%;
+    background-color: black;
+    color: white;
+}
+
+.signupbtn{
+    margin-left: 50%;
+    height: 70px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
